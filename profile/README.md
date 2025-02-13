@@ -1,5 +1,5 @@
 ## Introduction :office:
-SamaTech is a software development company based in Taipei, Taiwan. We work on several projects in the web and blockchain industries, and maintain a few open source projects. Our main focus at the moment is a website builder and hosting platform called [PubStudio](https://pubstud.io).
+SamaTech is a software development company based in Taipei, Taiwan. Currently, our main focus is a website builder and hosting platform called [PubStudio](https://pubstud.io).
 
 ![SamaTech banner](/assets/samatech_banner.jpg)
 
