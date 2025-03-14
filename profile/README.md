@@ -6,7 +6,7 @@ SamaTech is a software development company based in Taipei, Taiwan. Currently, o
 ### Active Projects :clipboard:
 - [PubStudio](https://github.com/pubstudio-builder), an open source website builder
 - [SamaQuiz](https://github.com/samatechtw/samaquiz), a live quiz app
-- Browser image optimizer: [image-api](https://github.com/sampullman/image-opt)
+- Browser image optimizer: [image-opt](https://github.com/sampullman/image-opt)
 - [vue-store](https://github.com/samatechtw/vue-store), a lightweight Vue store
 - [vue-components](https://github.com/samatechtw/vue-components), a Vue component library
 - [nx-vue3-vite](https://github.com/samatechtw/nx-vue3-vite) Nx plugin
